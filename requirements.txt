@@ -1,4 +1,4 @@
-pyrogram==2.0.106
+pyrogram==1.4.16
 PyWinCtl==0.3
 tgcrypto
 requests
@@ -26,3 +26,4 @@ flask
 gunicorn==22.0.0
 motor==3.3.2
 pymongo==4.6.1
+
